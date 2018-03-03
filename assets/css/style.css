@@ -1,0 +1,78 @@
+h1 {
+    margin-left: 20px;
+}
+
+p {
+    margin: 20px 0px 0px 0px;
+    padding: 0;
+}
+
+.navbar-nav {
+    float: right;
+    margin-right: 100px;
+}
+
+.navbar {
+    height: 80px;
+    border-bottom: solid 1px #cccccc;
+}
+
+.navbar-brand.custom {
+    position: absolute;
+    margin-left: 75px;
+    text-decoration: none;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 15px 20px 15px 20px;
+    top:25%;
+}
+
+.navbar-brand a{
+    text-decoration: none;
+    color: white;
+}
+
+.contentH1 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 5px;
+}
+
+.maincontent {
+    /* position: absolute; */
+    /* left: 100px; */
+    /* width: 650px; */
+    height: 425px;
+    padding: 20px;
+    margin: 40px 20px;
+    border: 1px solid #dddddd;
+    /* z-index: 1; */
+    background-color: #ffffff;
+    /* box-sizing: border-box; */
+}
+
+.profilePhoto {
+    /* display: inline-block; */
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+}
+
+.sidebar {
+    border: 1px solid #dddddd;
+    margin: 40px 60px;
+    padding: 20px;
+    height: 170px;
+}
+
+.socialIcon {
+    height: 75px;
+    width: 75px;
+    margin-left: 2px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.socialIcon:hover {
+    margin-top: 5px;
+}
