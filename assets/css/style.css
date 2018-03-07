@@ -61,20 +61,14 @@ img {
 }
 
 .maincontent {
-    /* position: absolute; */
-    /* left: 100px; */
-    /* width: 650px; */
     height: auto;
     padding: 20px;
     margin: 40px 20px;
     border: 1px solid #dddddd;
-    /* z-index: 1; */
     background-color: #ffffff;
-    /* box-sizing: border-box; */
 }
 
 .profilePhoto {
-    /* display: inline-block; */
     float: left;
     height: 150px;
     width: 150px;
@@ -95,7 +89,8 @@ img {
 .socialIcon {
     height: 55px;
     width: 55px;
-    margin-left: 8px;
+    margin-left: 4px;
+    margin-right: 2px;
     margin-top: 10px;
     display: inline-block;
 }
@@ -108,16 +103,11 @@ img {
 /* Portfolio Page */
 
 .portfolioContent {
-    /* position: absolute; */
-    /* left: 100px; */
-    /* width: 650px; */
     height: autopx;
     padding: 20px;
     margin: 40px 20px;
     border: 1px solid #dddddd;
-    /* z-index: 1; */
     background-color: #ffffff;
-    /* box-sizing: border-box; */
 }
 
 .portfolio_thumb {
