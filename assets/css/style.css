@@ -82,16 +82,16 @@ img {
     border: 1px solid #dddddd;
     margin: 40px 60px;
     padding: 20px 40px 20px 40px;
+    width: auto;
     height: 170px;
     background-color: white;
 }
 
 .socialIcon {
-    height: 55px;
-    width: 55px;
-    margin-left: 4px;
-    margin-right: 2px;
-    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    margin-left: 8px;
+    margin-top: 15px;
     display: inline-block;
 }
 
